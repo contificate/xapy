@@ -2,7 +2,7 @@
 
 Generate type-annotated bindings for XenAPI.
 
-![editor interaction](meta/editor.png)
+![editor interaction](meta/demo.gif)
 
 ---
 
